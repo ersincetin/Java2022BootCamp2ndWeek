@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33930bd1-8abf-42c9-ab55-e0b9adcbd27d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../classes/classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/out/production/classes/CustomerManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/src/CustomerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classesWithAttributes/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/classesWithAttributes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classesWithAttributes/classesWithAttributes/src/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/getterSetter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/out/production/getterSetter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/out/production/getterSetter/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/out/production/getterSetter/ProductManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getterSetter/src/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods/methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/methods2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/out/production/methods2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods2/methods2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/out/production/recapDemo_Classes/DortIslem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/out/production/recapDemo_Classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/recapDemo_Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/src/DortIslem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recapDemo_Classes/recapDemo_Classes/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2FCbF01aqjI4WDFkaihjlI6Wqci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/eceti/IntelliJProject/Java2022BootCamp2ndWeek/getterSetter"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33930bd1-8abf-42c9-ab55-e0b9adcbd27d" name="Changes" comment="" />
+      <created>1663998908681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663998908681</updated>
+      <workItem from="1663998913226" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
