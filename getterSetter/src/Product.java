@@ -7,6 +7,7 @@ public class Product {
     private String kod;
 
     public Product() {
+        System.out.println("Yapıcı blok çalıştı...");
     }
 
     public Product(int id, String name, String description, double price, int stockAmount) {
